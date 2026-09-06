@@ -11,11 +11,11 @@
 <br><br>
 
 <a href="https://ahmedzaki.me">
-  <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=06b6d4" />
+  <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logoColor=06b6d4" />
 </a>
 
 <a href="https://www.linkedin.com/in/ahmedzaki-me/">
-  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logoColor=38bdf8" />
 </a>
 
 </div>
