@@ -13,17 +13,9 @@
 <a href="https://ahmedzaki.me">
   <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=06b6d4" />
 </a>
+
 <a href="https://www.linkedin.com/in/ahmedzaki-me/">
   <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
-</a>
-<a href="https://www.youtube.com/@ahmedzakime">
-  <img src="https://img.shields.io/badge/YouTube-0f172a?style=for-the-badge&logo=youtube&logoColor=ef4444" />
-</a>
-<a href="https://www.facebook.com/ahmedzakime">
-  <img src="https://img.shields.io/badge/Facebook-0f172a?style=for-the-badge&logo=facebook&logoColor=1877f2" />
-</a>
-<a href="https://x.com/AhmedZaki_dev">
-  <img src="https://img.shields.io/badge/X-0f172a?style=for-the-badge&logo=x&logoColor=ffffff" />
 </a>
 
 </div>
