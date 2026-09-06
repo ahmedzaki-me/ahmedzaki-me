@@ -210,16 +210,7 @@ A modern chat application built with a modern frontend stack.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedzaki-me&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=06b6d4&text_color=e2e8f0" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedzaki-me&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&text_color=e2e8f0" width="35%" />
-
-<br>
-
 <img src="https://streak-stats.demolab.com/?user=ahmedzaki-me&theme=tokyonight&hide_border=true&background=0f172a&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" width="49%" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedzaki-me&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=06b6d4&line=06b6d4&point=e2e8f0" width="98%" />
 
 </div>
 
