@@ -36,7 +36,7 @@
 
 I'm **Ahmed Zaki**, a Frontend Developer focused on building modern, scalable web applications.
 
-I enjoy turning ideas into real products — from dashboards and SaaS platforms to e-commerce experiences.
+I enjoy turning ideas into real products - from dashboards and SaaS platforms to e-commerce experiences.
 
 ```js
 const ahmed = {
