@@ -56,38 +56,26 @@ const ahmed = {
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&perline=7" />
 
-`React` · `Next.js` · `TypeScript` · `JavaScript` · `React Router v7` · `Vite`
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite&perline=8" />
 
-### UI & Forms
-<img src="https://skillicons.dev/icons?i=figma&perline=1" />
+<br><br>
 
-`Tailwind CSS` · `shadcn/ui` · `Radix UI` · `React Hook Form` · `Zod` · `Motion`
+### Backend & Database
 
-### Backend & Data
-<img src="https://skillicons.dev/icons?i=supabase,postgres,nodejs&perline=4" />
+<img src="https://skillicons.dev/icons?i=supabase,postgres,nodejs&perline=6" />
 
-`Supabase Auth` · `PostgreSQL` · `Supabase RLS` · `Supabase Realtime`  
-`Edge Functions` · `REST APIs` · `Axios` · `TanStack Query`
+<br><br>
 
-### Authentication & Security
-`Session Management` · `Access / Refresh Tokens` · `Protected Routes` · `RBAC` · `JWT Custom Claims`
+### UI & Development
 
-### Realtime & Notifications
-`Supabase Realtime` · `OneSignal` · `Online Presence` · `Push Notifications`
+<img src="https://skillicons.dev/icons?i=figma,git,github&perline=6" />
 
-### Testing
-`Vitest` · `Unit Testing`
+<br><br>
 
-### DevOps & Deployment
-<img src="https://skillicons.dev/icons?i=docker,git,github&perline=3" />
+### DevOps & Testing
 
-`Docker` · `Docker Compose` · `Git` · `GitHub` · `Vercel` · `Netlify` · `Cloudflare`
-
-### Architecture & Engineering
-`Multi-Tenant Architecture` · `Feature-Driven Architecture` · `Clean Architecture`  
-`RBAC` · `Scalable Frontend Architecture` · `Performance Optimization` · `PWA`
+<img src="https://skillicons.dev/icons?i=docker,vitest,githubactions&perline=6" />
 
 </div>
 
@@ -98,42 +86,42 @@ const ahmed = {
 
 <table>
 <tr>
-<td align="center" width="180">
+<td align="center" width="200">
 
 ### 🏗️ Architecture
 
 `Multi-Tenant`
-`RBAC`
 `Feature-Driven`
 `Clean Architecture`
+`Scalable Architecture`
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="200">
 
 ### 🔐 Security
 
-`JWT Custom Claims`
+`RBAC`
 `RLS`
-`Auth`
+`JWT`
 `Protected Routes`
+`Session Management`
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="200">
 
 ### ⚡ Real-Time
 
 `Supabase Realtime`
 `Online Presence`
 `Push Notifications`
-`OneSignal`
 
 </td>
 </tr>
 
 <tr>
-<td align="center" width="180">
+<td align="center" width="200">
 
 ### 🧪 Testing
 
@@ -142,23 +130,25 @@ const ahmed = {
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="200">
 
-### 🐳 DevOps
+### 🚀 Performance
+
+`Code Splitting`
+`Caching`
+`Performance Optimization`
+`Responsive UI`
+
+</td>
+
+<td align="center" width="200">
+
+### 📦 Deployment
 
 `Docker`
 `Docker Compose`
 `CI/CD`
-
-</td>
-
-<td align="center" width="180">
-
-### 📱 Web
-
 `PWA`
-`Responsive UI`
-`Performance Optimization`
 
 </td>
 </tr>
@@ -178,6 +168,10 @@ Designed around real-world business workflows including products, orders, employ
 
 **Stack:** `React` · `Next.js` · `Supabase` · `PostgreSQL` · `Tailwind CSS`
 
+<a href="https://zakisystem.ahmedzaki.me">
+  <img src="https://img.shields.io/badge/Live_Demo-0f172a?style=for-the-badge" />
+</a>
+
 <br>
 
 ### 🌐 Portfolio
@@ -188,6 +182,10 @@ My personal portfolio showcasing my work, projects and experience.
 
 <a href="https://github.com/ahmedzaki-me/Portfolio">
   <img src="https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://ahmedzaki.me">
+  <img src="https://img.shields.io/badge/Live_Demo-0f172a?style=for-the-badge" />
 </a>
 
 <br><br>
@@ -201,6 +199,29 @@ A modern chat application built with a modern frontend stack.
 <a href="https://github.com/ahmedzaki-me/zaki-chat">
   <img src="https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<a href="https://chat.ahmedzaki.me">
+  <img src="https://img.shields.io/badge/Live_Demo-0f172a?style=for-the-badge" />
+</a>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedzaki-me&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=06b6d4&text_color=e2e8f0" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedzaki-me&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&text_color=e2e8f0" width="35%" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=ahmedzaki-me&theme=tokyonight&hide_border=true&background=0f172a&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" width="49%" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedzaki-me&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=06b6d4&line=06b6d4&point=e2e8f0" width="98%" />
+
+</div>
 
 ---
 
