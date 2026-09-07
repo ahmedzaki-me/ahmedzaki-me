@@ -10,19 +10,14 @@
 
 <br><br>
 
-<a href="https://ahmedzaki.me">
-  <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logoColor=06b6d4" />
-</a>
-
-<a href="https://www.linkedin.com/in/ahmedzaki-me/">
-  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logoColor=38bdf8" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge)](https://ahmedzaki.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge)](https://www.linkedin.com/in/ahmedzaki-me/)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm **Ahmed Zaki**, a Frontend Developer focused on building modern, scalable web applications.
 
@@ -160,9 +155,7 @@ Designed around real-world business workflows including products, orders, employ
 
 **Stack:** `React` · `Next.js` · `Supabase` · `PostgreSQL` · `Tailwind CSS`
 
-<a href="https://zakisystem.ahmedzaki.me">
-  <img src="https://img.shields.io/badge/Live_Demo-0f172a?style=for-the-badge" />
-</a>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0f172a?style=for-the-badge)](https://zakisystem.ahmedzaki.me)
 
 <br>
 
@@ -172,13 +165,8 @@ My personal portfolio showcasing my work, projects and experience.
 
 **Stack:** `JavaScript` · `Web`
 
-<a href="https://github.com/ahmedzaki-me/Portfolio">
-  <img src="https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://ahmedzaki.me">
-  <img src="https://img.shields.io/badge/Live_Demo-0f172a?style=for-the-badge" />
-</a>
+[![View Repository](https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ahmedzaki-me/Portfolio)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0f172a?style=for-the-badge)](https://ahmedzaki.me)
 
 <br><br>
 
@@ -188,13 +176,8 @@ A modern chat application built with a modern frontend stack.
 
 **Stack:** `TypeScript`
 
-<a href="https://github.com/ahmedzaki-me/zaki-chat">
-  <img src="https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://chat.ahmedzaki.me">
-  <img src="https://img.shields.io/badge/Live_Demo-0f172a?style=for-the-badge" />
-</a>
+[![View Repository](https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ahmedzaki-me/zaki-chat)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0f172a?style=for-the-badge)](https://chat.ahmedzaki.me)
 
 ---
 
@@ -202,7 +185,7 @@ A modern chat application built with a modern frontend stack.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=ahmedzaki-me&theme=tokyonight&hide_border=true&background=0f172a&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=ahmedzaki-me&theme=tokyonight&hide_border=true&background=0f172a&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" width="60%" />
 
 </div>
 
@@ -212,7 +195,7 @@ A modern chat application built with a modern frontend stack.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2&section=header"/>
 
-### ⚡ Build something. Break something. Learn something. Repeat.
+###  Build something. Break something. Learn something. Repeat.
 
 <br>
 
