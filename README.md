@@ -40,11 +40,11 @@ const ahmed = {
 
 ## ⚡ Tech Stack
 
-<div align="center">
+<div>
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite&perline=8" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite,reactquery&perline=9" />
 
 <br><br>
 
